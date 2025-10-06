@@ -26,19 +26,3 @@ The player tries to guess the secret word by entering letters or guessing the fu
 5. The game ends when:
    - The player **guesses the word**, or
    - The hangman drawing is completed (0 tries left).
-
----
-
-## 🧰 Requirements
-
-- C compiler (e.g., `gcc`)
-- Terminal (Windows, Linux, or macOS)
-
----
-
-## ⚙️ Compilation & Run
-
-### On Linux / macOS:
-```bash
-gcc hangman.c -o hangman
-./hangman
